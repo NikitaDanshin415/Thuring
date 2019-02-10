@@ -1,0 +1,9 @@
+C:\Users\LocalUser\Documents\Visual Studio 2015\Projects\Thuring\Thuring\bin\Debug\Thuring.exe.config
+C:\Users\LocalUser\Documents\Visual Studio 2015\Projects\Thuring\Thuring\bin\Debug\Thuring.exe
+C:\Users\LocalUser\Documents\Visual Studio 2015\Projects\Thuring\Thuring\bin\Debug\Thuring.pdb
+C:\Users\LocalUser\Documents\Visual Studio 2015\Projects\Thuring\Thuring\obj\Debug\Thuring.csprojResolveAssemblyReference.cache
+C:\Users\LocalUser\Documents\Visual Studio 2015\Projects\Thuring\Thuring\obj\Debug\Thuring.Form1.resources
+C:\Users\LocalUser\Documents\Visual Studio 2015\Projects\Thuring\Thuring\obj\Debug\Thuring.Properties.Resources.resources
+C:\Users\LocalUser\Documents\Visual Studio 2015\Projects\Thuring\Thuring\obj\Debug\Thuring.csproj.GenerateResource.Cache
+C:\Users\LocalUser\Documents\Visual Studio 2015\Projects\Thuring\Thuring\obj\Debug\Thuring.exe
+C:\Users\LocalUser\Documents\Visual Studio 2015\Projects\Thuring\Thuring\obj\Debug\Thuring.pdb
